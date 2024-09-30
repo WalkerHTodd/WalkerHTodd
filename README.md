@@ -16,4 +16,6 @@ Hi! I’m **Walker Todd**, a Computer Science major and Robotics minor at James 
 ## Involvement:
 Active in **Young Life**, **Student Duke Club**, and the **Competitive Programming Team**.
 
-Check out my projects and feel free to connect with me on [LinkedIn](#) or [GitHub](#).
+Check out my projects and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/walker-todd-83936a1b7/) or via email at [walkertodd03@gmail.com](mailto:walkertodd03@gmail.com).
+
+
