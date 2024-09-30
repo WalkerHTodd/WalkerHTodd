@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**WalkerHTodd/WalkerHTodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Walker Todd - Student, Programmer
 
-Here are some ideas to get you started:
+Hi! I’m **Walker Todd**, a Computer Science major and Robotics minor at James Madison University, passionate about software development, robotics, and AI. I have experience working on various projects, from autonomous systems to web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects:
+- **JACart 2**: Collaborated on the development of an autonomous golf cart using ROS2, focusing on sensor integration, UI development, and Docker.
+- **James Madison Database**: Created an IMDb clone using the IMDb API to display movie and actor information, built with Java and the Swing UI framework.
+- **SimplySports**: Developing a web app that pulls live sports scores and game times from external APIs, offering a clean, simple interface.
+
+## Skills:
+- **Languages**: Java, Python, JavaScript, HTML, Rust, Ruby, Haskell
+- **Technologies**: Docker, ROS2, GitHub, React
+
+## Involvement:
+Active in **Young Life**, **Student Duke Club**, and the **Competitive Programming Team**.
+
+Check out my projects and feel free to connect with me on [LinkedIn](#) or [GitHub](#).
