@@ -10,7 +10,7 @@ Hi! I’m **Walker Todd**, a Computer Science major and Robotics minor at James 
 - **SimplySports**: Developing a web app that pulls live sports scores and game times from external APIs, offering a clean, simple interface.
 
 ## Skills:
-- **Languages**: Java, Python, C, C++, Typescript, JavaScript, HTML/CSS, Rust, Ruby, Haskell
+- **Languages**: Java, Python, C, C#, C++, Typescript, JavaScript, HTML/CSS, Rust, Ruby, Haskell
 - **Technologies**: Docker, ROS2, GitHub, React
 
 ## Involvement:
